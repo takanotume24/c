@@ -1,1 +1,1 @@
-#image viewer tutorial with gtk+.
+# image viewer tutorial with gtk+.
